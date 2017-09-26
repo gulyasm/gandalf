@@ -1,2 +1,4 @@
 jinja2
 flask
+requests
+beautifulsoup4
